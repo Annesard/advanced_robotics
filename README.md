@@ -2,7 +2,6 @@
 
 This repository contains all homework assignments for the **Advanced Robotics** course completed by **Anastassiya Ryabkova**.
 
-> **Course:** Advanced Robotics | Dr. Ilya Afanasyev | Innopolis University, Spring 2026
 
 ---
 
